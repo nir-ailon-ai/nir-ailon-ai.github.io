@@ -17,7 +17,7 @@ keywords: Nir Ailon, Artificial Intelligence, Madrid  # add your own keywords or
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ailonai-logo.png #️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
-#⚛
+
 url: https://nir-ailon-ai.github.io # the base hostname & protocol for your site
 baseurl: #/al-folio # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
