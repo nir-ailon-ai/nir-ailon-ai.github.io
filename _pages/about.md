@@ -13,14 +13,18 @@ profile:
     <p>123 your address street</p>
     <p>Your City, State 12345</p>
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false #true  # includes a list of news items
+latest_posts: false #true  # includes a list of the newest posts
+selected_papers: false #true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+After 20 years of academic work (including tenured professor at the Technion) and 
+hands-on experience consulting for companies such as Google Research, Yahoo! Research, 
+[pinecone.io](https://pinecone.io), [deci.ai](https://deci.ai), [owna.health](https://owna.health), I have decided to move to beautiful Madrid. 
+I now divide my time between consulting to companies on AI and machine learning, 
+teaching and mentoring at I.E. MBD program, 
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My main consulting expertise is in effectively leveraging AI tools with my 
+clients' engineering process, from conducting experiments with generative AI 
+for problem solving, to training and fine-tuning custom models for specific business needs.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
