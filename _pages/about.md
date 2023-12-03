@@ -2,13 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: # <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
   image: me-ie.webp #prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  height: 300
+  height: 250
   more_info: # >
 #    <p>555 your office number</p>
 #    <p>123 your address street</p>
@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 After 20 years of academic work (including tenured professor at the Technion) and 
 hands-on experience consulting for companies such as Google Research, Yahoo! Research, 
-[pinecone.io](https://pinecone.io), [deci.ai](https://deci.ai), [owna.health](https://owna.health), I have decided to move to beautiful Madrid. 
+[pinecone.io](https://pinecone.io), [deci.ai](https://deci.ai), [owna.health/tech](https://owna.health), I have decided to move to beautiful Madrid. 
 I now divide my time between consulting to companies on AI and machine learning, 
 teaching and mentoring at I.E. MBD program, 
 
