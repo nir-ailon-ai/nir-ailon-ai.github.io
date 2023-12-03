@@ -8,6 +8,7 @@ profile:
   align: right
   image: me-ie.webp #prof_pic.jpg
   image_circular: false # crops the image to make it circular
+  height: 300
   more_info: # >
 #    <p>555 your office number</p>
 #    <p>123 your address street</p>
