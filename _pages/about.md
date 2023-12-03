@@ -18,14 +18,18 @@ news: false #true  # includes a list of news items
 latest_posts: false #true  # includes a list of the newest posts
 selected_papers: false #true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
+
+#My main consulting expertise is in effectively leveraging AI tools with my 
+#clients' engineering process, from conducting experiments with generative AI 
+#for problem solving, to training and fine-tuning custom models for specific business needs.
+
 ---
 After 20 years of academic work (including tenured professor at the Technion) and 
 hands-on experience consulting for companies such as Google Research, Yahoo! Research, 
-[pinecone.io](https://pinecone.io), [deci.ai](https://deci.ai), [owna.health](https://owna.health/tech), I have decided to move to beautiful Madrid. 
-I now divide my time between consulting to companies on AI and machine learning, 
+[pinecone.io](https://pinecone.io), [deci.ai](https://deci.ai), I have
+decided to move to beautiful Madrid.
+
+I am now working as the CTO of [owna.health](https://owna.health/tech), and also
 teaching and mentoring at [I.E university](https://ie.edu).
 
-My main consulting expertise is in effectively leveraging AI tools with my 
-clients' engineering process, from conducting experiments with generative AI 
-for problem solving, to training and fine-tuning custom models for specific business needs.
 
