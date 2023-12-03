@@ -23,7 +23,7 @@ After 20 years of academic work (including tenured professor at the Technion) an
 hands-on experience consulting for companies such as Google Research, Yahoo! Research, 
 [pinecone.io](https://pinecone.io), [deci.ai](https://deci.ai), [owna.health/tech](https://owna.health), I have decided to move to beautiful Madrid. 
 I now divide my time between consulting to companies on AI and machine learning, 
-teaching and mentoring at I.E. MBD program, 
+teaching and mentoring at [I.E university](https://ie.edu).
 
 My main consulting expertise is in effectively leveraging AI tools with my 
 clients' engineering process, from conducting experiments with generative AI 
