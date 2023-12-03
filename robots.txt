@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://nir-ailon-ai.github.io/sitemap.xml
+Sitemap: https://www.ailon.ai/sitemap.xml
