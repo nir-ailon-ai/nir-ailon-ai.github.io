@@ -26,10 +26,11 @@ social: true  # includes social icons at the bottom of the page
 ---
 After 20 years of academic work (including tenured professor at the Technion) and 
 hands-on experience consulting for companies such as Google Research, Yahoo! Research, 
-[pinecone.io](https://pinecone.io), [deci.ai](https://deci.ai), I have
+[pinecone.io](https://pinecone.io),  I have
 decided to move to beautiful Madrid.
 
-I am now working as the CTO of [owna.health](https://owna.health/tech), and also
+I am now dividing my time between [owna.health](https://owna.health/tech), 
+and [deci.ai](https://deci.ai), while also
 teaching and mentoring at [I.E university](https://ie.edu).
 
 
